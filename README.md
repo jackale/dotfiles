@@ -1,0 +1,2 @@
+# dotfiles
+やっていくぞ！:punch:
