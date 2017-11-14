@@ -1,0 +1,11 @@
+{
+	"editor.minimap.enabled": false,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"files.trimTrailingWhitespace": true,
+	"sublimeTextKeymap.promptV3Features": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.snippetSuggestions": "top",
+	"editor.formatOnPaste": true,
+	"terminal.integrated.shell.osx": "/bin/zsh"
+}
